@@ -19,7 +19,7 @@
 ### 1. 克隆/下载项目
 下载本项目源码并解压。
 ```
-git clone [https://github.com/NightWish177/sinc-nav.git](https://github.com/NightWish177/sinc-nav.git)
+git clone [https://github.com/SincReaper/sinc-nav.git](https://github.com/SincReaper/sinc-nav.git)
 cd your-repo-name
 ```
 
