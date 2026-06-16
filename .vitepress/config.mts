@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 import Unocss from 'unocss/vite'
 
 export default defineConfig({
-  title: "秋雨夜眠-导航页",
+  title: "Gentoo'Nav",
   head: [
     ['link', { rel: 'icon', href: '/assets/home/avatar.webp' }],
   ],
