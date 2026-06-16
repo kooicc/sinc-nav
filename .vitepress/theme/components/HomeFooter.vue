@@ -22,7 +22,7 @@ const footerConfig = computed(() => {
   <footer class="footer-wrapper">
     <div class="footer-content">
       <p>
-        Copyright © 2026 秋雨夜眠 🏃‍♂️
+        Copyright © 1996-2026 秋雨夜眠 🏃‍♂️
         <a href="https://www.cloudflare-cn.com/developer-platform/products/workers/" target="_blank" class="link">Cloudflare Workers</a>
       </p>
     </div>
@@ -43,7 +43,7 @@ const footerConfig = computed(() => {
 
 .footer-content {
   text-align: center;
-  color: rgb(255, 255, 255);
+  color: rgb(216, 216, 216);
   font-size: 0.9rem;
   line-height: 1.6;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
