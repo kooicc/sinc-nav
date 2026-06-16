@@ -21,16 +21,16 @@ const footerConfig = computed(() => {
 <template>
   <footer class="footer-wrapper">
     <div class="footer-content">
-      <p>
-        Copyright © 1996-2026 秋雨夜眠 🏃‍♂️
+      <div class="footer-row">
+        <span>Copyright © 1996-2026 秋雨夜眠 🏃‍♂️</span>
         <a href="https://www.cloudflare-cn.com/developer-platform/products/workers/" target="_blank" rel="noopener noreferrer" class="cf-link">
           <img 
             src="https://deploy.workers.cloudflare.com/button?type=svg" 
-            alt="Deploy with Cloudflare Workers" 
+            alt="Cloudflare Workers" 
             class="cf-badge"
           >
         </a>
-      </p>
+      </div>
     </div>
   </footer>
 </template>
