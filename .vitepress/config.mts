@@ -15,7 +15,7 @@ export default defineConfig({
   themeConfig: {
     // @ts-ignore
     startPage: {
-      title: "秋雨夜眠-导航页",
+      title: "导航页",
       
       // 👇 1. 如果这里有视频链接，会优先播放视频（覆盖掉图片）
       //      如果要测试双端壁纸效果，请先暂时注释掉这行视频
