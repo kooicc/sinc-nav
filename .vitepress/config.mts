@@ -4,7 +4,7 @@ import Unocss from 'unocss/vite'
 export default defineConfig({
   title: "秋雨夜眠-导航页",
   head: [
-    ['link', { rel: 'icon', href: '/assets/home/Linux.ico' }],
+    ['link', { rel: 'icon', href: '/assets/home/avatar.webp' }],
   ],
   vite: {
     plugins: [
@@ -30,8 +30,9 @@ export default defineConfig({
         // "/assets/bg/static/d14.webp",
         // "/assets/bg/static/d6.webp",
         // "/assets/bg/static/d5.webp",
-        "https://img.nw177.cn/blog/00.background/bg73.webp",
-        "https://api.img.nw177.cn/api",
+        // "https://img.nw177.cn/blog/00.background/bg73.webp",
+        "https://bing.ee123.net/img",
+        // "https://api.img.nw177.cn/api",
         
       ],
 
