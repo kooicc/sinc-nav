@@ -51,8 +51,8 @@ export default defineConfig({
     footer: {
       // @ts-ignore
       author: "十三",
-      siteName: "nav.nw177.cn",
-      siteUrl: "https://nav.nw177.cn",
+      siteName: "秋nav.244056614.xyz",
+      siteUrl: "https://秋nav.244056614.xyz",
       poem: "终不似 少年游"
     },
 

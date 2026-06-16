@@ -11,7 +11,7 @@ const footerConfig = computed(() => {
   const conf = theme.value.footer || {}
   return {
     author: conf.author || '十三',
-    siteName: conf.siteName || 'nav.nw177.cn',
+    siteName: conf.siteName || '秋nav.244056614.xyz',
     siteUrl: conf.siteUrl || '#',
     poem: conf.poem || '终不似 少年游'
   }
@@ -22,16 +22,9 @@ const footerConfig = computed(() => {
   <footer class="footer-wrapper">
     <div class="footer-content">
       <p>
-        Copyright © {{ year }} {{ footerConfig.author }} · 
-        <a :href="footerConfig.siteUrl" target="_blank" class="link">{{ footerConfig.siteName }}</a> 
-        · 保留所有权利
+        Copyright © 2026 秋雨夜眠 🏃‍♂️
+        <a href="https://www.cloudflare-cn.com/developer-platform/products/workers/" target="_blank" class="link">Cloudflare Workers</a>
       </p>
-      <!-- <p class="poem">{{ footerConfig.poem }}</p>
-      <p align="center">
-        <a href="https://beian.miit.gov.cn/" target="_blank" style="color: #666; text-decoration: none;">
-          滇ICP备2025075617号-1
-        </a>
-      </p>       -->
     </div>
   </footer>
 </template>
