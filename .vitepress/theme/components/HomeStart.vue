@@ -21,7 +21,7 @@ const { theme } = useData()
 const pageConfig = computed(() => {
   const config = theme.value.startPage || {}
   return {
-    title: config.title || '十三の导航页',
+    title: config.title || '秋雨夜眠-导航页',
     // 这里保持原始数据（可能是字符串，也可能是数组）
     bgImageRaw: config.bgImage,
     bgImageMobileRaw: config.bgImageMobile,

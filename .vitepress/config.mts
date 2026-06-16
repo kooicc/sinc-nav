@@ -2,9 +2,9 @@ import { defineConfig } from 'vitepress'
 import Unocss from 'unocss/vite'
 
 export default defineConfig({
-  title: "十三の导航页",
+  title: "秋雨夜眠-导航页",
   head: [
-    ['link', { rel: 'icon', href: '/assets/home/avatar.webp' }],
+    ['link', { rel: 'icon', href: '/assets/home/Linux.ico' }],
   ],
   vite: {
     plugins: [
@@ -15,7 +15,7 @@ export default defineConfig({
   themeConfig: {
     // @ts-ignore
     startPage: {
-      title: "十三の导航页",
+      title: "秋雨夜眠-导航页",
       
       // 👇 1. 如果这里有视频链接，会优先播放视频（覆盖掉图片）
       //      如果要测试双端壁纸效果，请先暂时注释掉这行视频
