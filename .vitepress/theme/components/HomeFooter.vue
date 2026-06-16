@@ -49,7 +49,7 @@ const footerConfig = computed(() => {
 
 .footer-content {
   text-align: center;
-  color: rgba(255, 255, 255, 0.6);
+  color: rgb(255, 255, 255);
   font-size: 0.9rem;
   line-height: 1.6;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
