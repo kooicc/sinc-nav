@@ -58,19 +58,19 @@
       {
         "name": "hugo",
         "desc": "博客",
-        "icon": "https://api.dicebear.com/9.x/initials/svg?seed=hugo",
+        "icon": "https://favicon.im/gohugo.io",
         "url": "https://blog.244056614.xyz/"
       },
       {
         "name": "todo",
         "desc": "待办事项",
-        "icon": "https://api.dicebear.com/9.x/initials/svg?seed=todo",
+        "icon": "https://favicon.im/dida365.com",
         "url": "https://todo.244056614.xyz/"
       },    
       {
         "name": "Docker",
         "desc": "镜像加速",
-        "icon": "https://api.dicebear.com/9.x/initials/svg?seed=Docker",
+        "icon": "https://favicon.im/docker.com",
         "url": "https://docker.244056614.xyz/"
       },
       {
@@ -82,7 +82,7 @@
       {
         "name": "img",
         "desc": "图床",
-        "icon": "https://api.dicebear.com/9.x/initials/svg?seed=img",
+        "icon": "https://favicon.im/superbed.cn",
         "url": "https://img.244056614.xyz/"
       },
       {
