@@ -56,38 +56,38 @@
     "title": "Cloudflare构建",
     "items": [
       {
-        "name": "Hugo博客",
-        "desc": "Cloudflare Workers",
+        "name": "Hugo",
+        "desc": "Hugo博客",
         "icon": "",
         "url": "https://blog.244056614.xyz/"
       },
       {
-        "name": "todo待办事项",
-        "desc": "Cloudflare Workers",
+        "name": "ToDo",
+        "desc": "待办事项",
         "icon": "/assets/icon/Cloudflare.png",
         "url": "https://todo.244056614.xyz/"
       },    
       {
-        "name": "Docker镜像加速",
-        "desc": " Cloudflare Workers",
-        "icon": "https://favicon.im/docker.com",
+        "name": "Docker",
+        "desc": "镜像加速",
+        "icon": "/assets/icon/Cloudflare.png",
         "url": "https://docker.244056614.xyz/"
       },
       {
         "name": "URL短链接",
-        "desc": "Cloudflare Workers",
+        "desc": "短链接",
         "icon": "/assets/icon/Cloudflare.png",
         "url": "https://url.244056614.xyz/"
       },
       {
-        "name": "IMG图床",
-        "desc": "Cloudflare Workers",
+        "name": "img",
+        "desc": "图床",
         "icon": "/assets/icon/Cloudflare.png",
         "url": "https://img.244056614.xyz/"
       },
       {
-        "name": "NAV导航页",
-        "desc": "Cloudflare Workers",
+        "name": "nav",
+        "desc": "导航页",
         "icon": "/assets/icon/Cloudflare.png",
         "url": "https://nav.244056614.xyz/"
       },
