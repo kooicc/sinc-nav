@@ -53,13 +53,13 @@
     ]
   },
   {
-    "title": "AI 人工智能",
+    "title": "Cloudflare构建",
     "items": [
       {
-        "name": "ChatGPT",
-        "desc": "OpenAI",
-        "icon": "/assets/icon/ChatGPT.png",
-        "url": "https://chat.openai.com"
+        "name": "Docker",
+        "desc": "加速",
+        "icon": "https://favicon.im/docker.com",
+        "url": "https://docker.244056614.xyz/"
       },
       {
         "name": "Gemini",
