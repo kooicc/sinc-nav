@@ -22,8 +22,8 @@ const footerConfig = computed(() => {
   <footer class="footer-wrapper">
     <div class="footer-content">
       <p>
-        Copyright © 1996-2026 秋雨夜眠 🏃‍♂️
-        <a href="https://www.cloudflare-cn.com/developer-platform/products/workers/" target="_blank" class="link">Cloudflare Workers</a>
+        Copyright © 1996-{{ new Date().getFullYear() }} 秋雨夜眠 🏃‍♂️ &nbsp;|
+        <a href="https://www.cloudflare-cn.com/developer-platform/products/workers/" target="_blank" class="link">Cloudflare Workers ☁️</a>
       </p>
     </div>
   </footer>
