@@ -56,94 +56,46 @@
     "title": "Cloudflare构建",
     "items": [
       {
-        "name": "Docker",
-        "desc": "加速",
+        "name": "Hugo博客",
+        "desc": "Cloudflare Workers",
+        "icon": "",
+        "url": "https://blog.244056614.xyz/"
+      },
+      {
+        "name": "todo待办事项",
+        "desc": "Cloudflare Workers",
+        "icon": "/assets/icon/Cloudflare.png",
+        "url": "https://todo.244056614.xyz/"
+      },    
+      {
+        "name": "Docker镜像加速",
+        "desc": " Cloudflare Workers",
         "icon": "https://favicon.im/docker.com",
         "url": "https://docker.244056614.xyz/"
       },
       {
-        "name": "Gemini",
-        "desc": "Google AI",
-        "icon": "/assets/icon/Gemini.png",
-        "url": "https://gemini.google.com"
+        "name": "URL短链接",
+        "desc": "Cloudflare Workers",
+        "icon": "/assets/icon/Cloudflare.png",
+        "url": "https://url.244056614.xyz/"
       },
       {
-        "name": "DeepSeek",
-        "desc": "深度求索",
-        "icon": "/assets/icon/DeepSeek.png",
-        "url": "https://chat.deepseek.com"
+        "name": "IMG图床",
+        "desc": "Cloudflare Workers",
+        "icon": "/assets/icon/Cloudflare.png",
+        "url": "https://img.244056614.xyz/"
       },
       {
-        "name": "Claude",
-        "desc": "Anthropic",
-        "icon": "/assets/icon/Claude.png",
-        "url": "https://claude.ai"
-      },
-      {
-        "name": "Microsoft Copilot",
-        "desc": "Microsoft",
-        "icon": "/assets/icon/Microsoft Copilot.svg",
-        "url": "https://copilot.microsoft.com"
-      },
-      {
-        "name": "Perplexity",
-        "desc": "AI 搜索问答",
-        "icon": "/assets/icon/perplexity.png",
-        "url": "https://www.perplexity.ai"
-      },
-      {
-        "name": "Grok",
-        "desc": "xAI",
-        "icon": "/assets/icon/Grok.png",
-        "url": "https://grok.com"
-      },
-      {
-        "name": "Poe",
-        "desc": "Quora (多模型聚合)",
-        "icon": "/assets/icon/Poe.png",
-        "url": "https://poe.com"
-      },
-      {
-        "name": "Kimi",
-        "desc": "月之暗面",
-        "icon": "/assets/icon/Kimi.png",
-        "url": "https://kimi.moonshot.cn"
-      },
-      {
-        "name": "文心一言",
-        "desc": "百度 AI",
-        "icon": "/assets/icon/文心一言.png",
-        "url": "https://yiyan.baidu.com/welcome"
-      },
-      {
-        "name": "讯飞星火",
-        "desc": "讯飞 AI",
-        "icon": "/assets/icon/讯飞.png",
-        "url": "https://spark.xfyun.cn/"
-      },
-      {
-        "name": "通义千问",
-        "desc": "阿里巴巴",
-        "icon": "/assets/icon/阿里千问.png",
-        "url": "https://www.qianwen.com/"
+        "name": "NAV导航页",
+        "desc": "Cloudflare Workers",
+        "icon": "/assets/icon/Cloudflare.png",
+        "url": "https://nav.244056614.xyz/"
       },
       {
         "name": "豆包",
         "desc": "字节跳动旗下",
         "icon": "/assets/icon/豆包.png",
         "url": "https://www.doubao.com"
-      },
-      {
-        "name": "腾讯元宝",
-        "desc": "混元大模型",
-        "icon": "/assets/icon/腾讯元宝.png",
-        "url": "https://yuanbao.tencent.com"
-      },
-      {
-        "name": "智谱清言",
-        "desc": "中外模型双领跑",
-        "icon": "/assets/icon/智谱清言.png",
-        "url": "https://chatglm.cn"
       }
     ]
   },
