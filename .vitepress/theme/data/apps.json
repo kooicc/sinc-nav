@@ -56,39 +56,39 @@
     "title": "Cloudflare构建",
     "items": [
       {
-        "name": "Hugo",
-        "desc": "Hugo博客",
-        "icon": "",
+        "name": "hugo",
+        "desc": "博客",
+        "icon": "https://api.dicebear.com/9.x/identicon/svg?seed=hugo",
         "url": "https://blog.244056614.xyz/"
       },
       {
-        "name": "ToDo",
+        "name": "todo",
         "desc": "待办事项",
-        "icon": "/assets/icon/Cloudflare.png",
+        "icon": "https://api.dicebear.com/9.x/bottts/svg?seed=todo",
         "url": "https://todo.244056614.xyz/"
       },    
       {
         "name": "Docker",
         "desc": "镜像加速",
-        "icon": "/assets/icon/Cloudflare.png",
+        "icon": "https://favicon.im/docker.com",
         "url": "https://docker.244056614.xyz/"
       },
       {
-        "name": "URL短链接",
+        "name": "URL",
         "desc": "短链接",
-        "icon": "/assets/icon/Cloudflare.png",
+        "icon": "https://api.dicebear.com/9.x/identicon/svg?seed=url",
         "url": "https://url.244056614.xyz/"
       },
       {
         "name": "img",
         "desc": "图床",
-        "icon": "/assets/icon/Cloudflare.png",
+        "icon": "https://api.dicebear.com/9.x/identicon/svg?seed=img",
         "url": "https://img.244056614.xyz/"
       },
       {
         "name": "nav",
         "desc": "导航页",
-        "icon": "/assets/icon/Cloudflare.png",
+        "icon": "https://api.dicebear.com/9.x/identicon/svg?seed=nav",
         "url": "https://nav.244056614.xyz/"
       },
       {
